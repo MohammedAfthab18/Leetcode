@@ -26,8 +26,7 @@ While I have put in effort to ensure the correctness and efficiency of the solut
 
 ## Connect with Me
 
-If you'd like to connect or know more about my coding journey, you can find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or follow me on [Twitter](https://twitter.com/your-twitter-handle/).
-
+If you'd like to connect or know more about my coding journey, you can find me on [LinkedIn](https://www.linkedin.com/in/mohammed-afthab-4a8a72220/) 
 ## Happy Coding!
 
 I hope these solutions inspire you to improve your problem-solving skills and enjoy the journey of coding. Remember, the key to mastering algorithms and data structures is practice, so keep coding and never stop learning!
